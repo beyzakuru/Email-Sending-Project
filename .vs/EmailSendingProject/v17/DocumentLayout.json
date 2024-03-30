@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{775EE65B-63ED-4355-8723-3180D6784E71}|EmailSendingProject\\EmailSendingProject.csproj|c:\\users\\lenovo\\source\\repos\\emailsendingproject\\emailsendingproject\\controller\\emailsendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{775EE65B-63ED-4355-8723-3180D6784E71}|EmailSendingProject\\EmailSendingProject.csproj|solutionrelative:emailsendingproject\\controller\\emailsendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 231,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailSendController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\EmailSendingProject\\Controller\\EmailSendController.cs",
-              "RelativeDocumentMoniker": "EmailSendingProject\\Controller\\EmailSendController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\EmailSendingProject\\Controller\\EmailSendController.cs",
-              "RelativeToolTip": "EmailSendingProject\\Controller\\EmailSendController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:25:22.457Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

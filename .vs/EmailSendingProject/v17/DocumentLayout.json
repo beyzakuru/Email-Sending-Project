@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|c:\\users\\lenovo\\source\\repos\\emailsendingproject\\apilayer\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|solutionrelative:apilayer\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|c:\\users\\lenovo\\source\\repos\\emailsendingproject\\apilayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|solutionrelative:apilayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|c:\\users\\lenovo\\source\\repos\\emailsendingproject\\apilayer\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|solutionrelative:apilayer\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|c:\\users\\lenovo\\source\\repos\\emailsendingproject\\apilayer\\controllers\\mailaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|solutionrelative:apilayer\\controllers\\mailaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|c:\\users\\lenovo\\source\\repos\\emailsendingproject\\apilayer\\controllers\\emailsendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D0780-0F7B-4BE9-BB4A-5058CE92F3B7}|APILayer\\APILayer.csproj|solutionrelative:apilayer\\controllers\\emailsendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 231,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "APILayer\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "APILayer\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:13:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "APILayer\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "APILayer\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:12:48.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Program.cs",
+              "RelativeDocumentMoniker": "APILayer\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Program.cs",
+              "RelativeToolTip": "APILayer\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:03:14.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\MailAccountController.cs",
+              "RelativeDocumentMoniker": "APILayer\\Controllers\\MailAccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\MailAccountController.cs",
+              "RelativeToolTip": "APILayer\\Controllers\\MailAccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:57:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSendController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\EmailSendController.cs",
+              "RelativeDocumentMoniker": "APILayer\\Controllers\\EmailSendController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EmailSendingProject\\APILayer\\Controllers\\EmailSendController.cs",
+              "RelativeToolTip": "APILayer\\Controllers\\EmailSendController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:04:30.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

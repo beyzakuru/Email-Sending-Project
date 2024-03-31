@@ -15,26 +15,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 
-//benim eklediðim
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
-
-builder.Services.AddScoped<IEmailSendService, EmailSendService>();
-builder.Services.AddAutoMapper(typeof(MapProfile));
-
-//AppDbContext Ýþlemleri (ben)
-builder.Services.AddDbContext<AppDbContext>(x =>
-{
-    x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"), option =>
-    {
-        option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
-    });
-});
-
-
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -27,3 +27,4 @@
 - Repository katmanı içerisinde entity'lerin konfigürasyon işlemleri için Configuration klasörü, repository interface'lerinin implementasyonu için Repositories klasörü ve veritabanaı senkronizasyonunu sağlamak için migration klasörü bulunmaktadır.
 - Service katmanı içerisinde service interface'lerinin implementasyonunun yapıldığı Service klasörü ve model-dto verilerini eşitlemek için mapping klasörü bulunmaktadır.
 - API katmanı içerisinde ise her bir model ögesi için controller'lar mevcuttur.
+- Ayrıca mail gönderim servisi için interface, interface implementasyonun sınıfı ve controller'ı mavcuttur.
